@@ -39,11 +39,12 @@ Build server with command:
 ```sh
 npm run build
 ```
-##OpenAI documentation
+## OpenAI documentation
 - Check out the [OpenAI docs](https://platform.openai.com/docs/api-reference)
 
-##WhatsApp documentation
+## WhatsApp documentation
 - Check out the [WhatsApp docs](https://developers.facebook.com/docs/whatsapp/cloud-api/guides/set-up-webhooks)
 
 ## Fastify documentation
 - Check out the [Fastify docs](https://www.fastify.io/docs/latest/)
+
